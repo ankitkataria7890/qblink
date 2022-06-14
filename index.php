@@ -113,7 +113,7 @@
   border-radius:5px;
 }
 .btn3 {
-  background: url(dwld1.jpg) no-repeat;
+  background: url(dwld.jpg) no-repeat;
   height:200px;
   width:200px;
   color:transparent;
